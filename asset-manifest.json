@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://addybedi.github.io/ShoppersFest/static/css/main.faa297e6.chunk.css",
+    "main.css": "https://addybedi.github.io/ShoppersFest/static/css/main.72bf5e95.chunk.css",
     "main.js": "https://addybedi.github.io/ShoppersFest/static/js/main.40c25ecd.chunk.js",
     "main.js.map": "https://addybedi.github.io/ShoppersFest/static/js/main.40c25ecd.chunk.js.map",
     "runtime-main.js": "https://addybedi.github.io/ShoppersFest/static/js/runtime-main.ad7e0a8c.js",
@@ -10,13 +10,13 @@
     "static/js/3.d900409d.chunk.js": "https://addybedi.github.io/ShoppersFest/static/js/3.d900409d.chunk.js",
     "static/js/3.d900409d.chunk.js.map": "https://addybedi.github.io/ShoppersFest/static/js/3.d900409d.chunk.js.map",
     "index.html": "https://addybedi.github.io/ShoppersFest/index.html",
-    "static/css/main.faa297e6.chunk.css.map": "https://addybedi.github.io/ShoppersFest/static/css/main.faa297e6.chunk.css.map",
+    "static/css/main.72bf5e95.chunk.css.map": "https://addybedi.github.io/ShoppersFest/static/css/main.72bf5e95.chunk.css.map",
     "static/js/2.10a32f7a.chunk.js.LICENSE.txt": "https://addybedi.github.io/ShoppersFest/static/js/2.10a32f7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad7e0a8c.js",
     "static/js/2.10a32f7a.chunk.js",
-    "static/css/main.faa297e6.chunk.css",
+    "static/css/main.72bf5e95.chunk.css",
     "static/js/main.40c25ecd.chunk.js"
   ]
 }
